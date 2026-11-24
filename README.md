@@ -85,9 +85,9 @@ Göstəricilər layihə ilə birlikdə saxlanmış 5 000 sətirlik CSV faylında
 
 1. **Daxili kreditdə iadə faizi nağd ödənişdən yüksəkdir.** Daxili kredit əməliyyatlarının 23,21%-i, nağd əməliyyatların isə 11,65%-i geri qaytarılıb. Taksit kartlarında bu göstərici 16,08%-dir. Daxili kredit üzrə qaytarılmış əməliyyatlardan 146-sı, yəni 35,18%-i, “Kredit təsdiqlənmədi” səbəbi ilə qeydə alınıb.
 2. **Lənkəran filialında iadə faizi ən yüksəkdir.** Filial üzrə göstərici 19,36% (470 əməliyyatdan 91-i), Gəncə filialında isə 15,61% (820 əməliyyatdan 128-i) olub. Bununla belə, ən yüksək ümumi iadə məbləği Bakı - 28 May filialındadır: 338 804,33 AZN.
-3. **Zavod qüsuru ən böyük maliyyə itkisi yaradan səbəbdir.** Bu səbəblə 322 məhsul qaytarılıb, zərər 396 147,01 AZN olub. Məbləğ üzrə ilk üç səbəb — zavod qüsuru, müştərinin fikrini dəyişməsi və kreditin təsdiqlənməməsi — iadə zərərinin 73,28%-ni təşkil edir.
+3. **Zavod qüsuru ən böyük maliyyə itkisi yaradan səbəbdir.** Bu səbəblə 322 iadə əməliyyatı qeydə alınıb, zərər 396 147,01 AZN olub. Məbləğ üzrə ilk üç səbəb — zavod qüsuru, müştərinin fikrini dəyişməsi və kreditin təsdiqlənməməsi — iadə zərərinin 73,28%-ni təşkil edir.
 4. **Noutbuklar və smartfonlar iadə zərərinin böyük hissəsini yaradır.** Noutbuklarda satış gəliri 2 610 038,38 AZN, iadə məbləği 480 016,18 AZN; smartfonlarda müvafiq olaraq 2 421 012,37 AZN və 455 853,59 AZN-dir. Məhsul kateqoriyası üzrə məbləğ əsaslı iadə/satış nisbəti noutbuklarda 18,39%, smartfonlarda 18,83%, məişət texnikasında 19,28%, aksesuarlar üzrə 25,86%-dir. Aksesuar göstəricisinin yüksək olması bu kateqoriyanın az satış məbləği və aşağı qiymət səviyyəsi ilə birlikdə nəzərə alınmalıdır.
-5. **Aksesuarlar üzrə maliyyə məbləği kiçik, keyfiyyət siqnalı nəzərəçarpandır.** Kateqoriyanın satış gəliri 61 918,90 AZN, iadə məbləği 16 012,38 AZN-dir. “Zavod qüsuru” səbəbi ilə qaytarılan məhsullar arasında adapter 60 əməliyyatla ən çox rast gəlinən məhsuldur.
+5. **Aksesuarlar üzrə maliyyə məbləği kiçik, keyfiyyət siqnalı nəzərəçarpandır.** Kateqoriyanın satış gəliri 61 918,90 AZN, iadə məbləği 16 012,38 AZN-dir. “Zavod qüsuru” səbəbi ilə qaytarılan məhsullar arasında adapter 66 əməliyyatla ən çox rast gəlinən məhsuldur.
 
 ### Vizual təhlillər
 
